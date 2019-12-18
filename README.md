@@ -1,1 +1,0 @@
-# SolveThePuzzle.github.io
