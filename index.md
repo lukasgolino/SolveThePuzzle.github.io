@@ -1,6 +1,9 @@
-<!DOCTYPE HTML>
 
 <head>
+ body
+  {
+  background_colour:black;
+  }
 </head>
 
 <body>
