@@ -148,6 +148,14 @@
 					orientation: "down",
 					startx: 7,
 					starty: 9
+				},
+				{
+					clue: "Offset current control (abbr.)",
+					answer: "occ",
+					position: 15,
+					orientation: "down",
+					startx: 12,
+					starty: 12
 				}
 			] 
 	
