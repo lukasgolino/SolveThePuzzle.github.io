@@ -7,7 +7,7 @@
 		var puzzleData = [
 			 	{
 					clue: "First letter of greek alphabet",
-					answer: "alpha",
+					answer: "alphatest",
 					position: 1,
 					orientation: "across",
 					startx: 1,
