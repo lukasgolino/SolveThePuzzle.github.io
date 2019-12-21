@@ -40,63 +40,63 @@
 				{
 					clue: "Norway capital.",
 					answer: "oslo",
-					position: 10,
+					position: 5,
 					orientation: "across",	
 					startx: 1,
 					starty: 6
 				},
 				{
-					clue: "This device is used to step-up, step-down, and/or isolate",
-					answer: "transformer",
-					position: 13,
+					clue: "First abroad holiday.",
+					answer: "paris",
+					position: 6,
 					orientation: "across",
-					startx: 1,
-					starty: 9
+					startx: 11,
+					starty: 7
 				},
 				{
-					clue: "Type of ray emitted frm the sun",
-					answer: "gamma",
-					position: 16,
+					clue: "One of the best and probably most memorable museums we've been too.",
+					answer: "vasa",
+					position: 7,
 					orientation: "across",
-					startx: 1,
-					starty: 11
+					startx: 2,
+					starty: 10
 				},
 				{
-					clue: "C programming language operator",
-					answer: "cysan",
-					position: 17,
+					clue: "\"MOOOOOOORE _________\"",
+					answer: "yumyumyum",
+					position: 8,
 					orientation: "across",
 					startx: 7,
 					starty: 11
 				},
 				{
-					clue: "Defines the alpha-numeric characters that are typically associated with text used in programming",
-					answer: "ascii",
+					clue: "One of our favourite lifts in Val this lifts name roughly translates to sun in French.",
+					answer: "solais",
+					position: 9,
+					orientation: "across",
+					startx: 3,
+					starty: 16
+				},
+				{
+					clue: "Shithole",
+					answer: "prague",
+					position: 10,
+					orientation: "across",
+					startx: 13,
+					starty: 17
+				},
+				{
+					clue: "Island we stayed in Venice, famous for its glass.",
+					answer: "murano",
 					position: 1,
 					orientation: "down",
 					startx: 1,
 					starty: 1
 				},
 				{
-					clue: "Generally, if you go over 1kV per cm this happens",
-					answer: "arc",
-					position: 2,
-					orientation: "down",
-					startx: 5,
-					starty: 1
-				},
-				{
-					clue: "Control system strategy that tries to replicate the human through process (abbr.)",
-					answer: "ann",
-					position: 4,
-					orientation: "down",
-					startx: 9,
-					starty: 1
-				},
-				{
-					clue: "Greek variable that usually describes rotor positon",
-					answer: "theta",
-					position: 6,
+					clue: "\"Oh yeah _____ yeah!\"",
+					answer: "duvet",
+					position: 11,
 					orientation: "down",
 					startx: 7,
 					starty: 3
