@@ -144,7 +144,7 @@
 				{
 					clue: "420 blaze it faggot",
 					answer: "amsterdam",
-					position: 15,
+					position: 17,
 					orientation: "down",
 					startx: 15,
 					starty: 10
