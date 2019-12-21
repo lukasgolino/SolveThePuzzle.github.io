@@ -12,6 +12,7 @@
 					orientation: "across",
 					startx: 1,
 					starty: 1,
+					hintbool: true,
 					hint: "https://goo.gl/maps/HWB8ZJPsQ88jTFgh8"
 				},
 			 	{
@@ -21,6 +22,7 @@
 					orientation: "across",
 					startx: 7,
 					starty: 3,
+					hintbool: false,
 					hint: ""
 				},
 				{
@@ -30,6 +32,7 @@
 					orientation: "across",
 					startx: 12,
 					starty: 3,
+					hintbool: false,
 					hint: ""
 				},
 				{
@@ -39,6 +42,7 @@
 					orientation: "across",
 					startx: 6,
 					starty: 5,
+					hintbool: false,
 					hint: ""
 				},
 				{
@@ -48,6 +52,7 @@
 					orientation: "across",	
 					startx: 1,
 					starty: 6,
+					hintbool: false,
 					hint: ""
 				},
 				{
@@ -57,6 +62,7 @@
 					orientation: "across",
 					startx: 11,
 					starty: 7,
+					hintbool: false,
 					hint: ""
 				},
 				{
@@ -66,6 +72,7 @@
 					orientation: "across",
 					startx: 2,
 					starty: 10,
+					hintbool: false,
 					hint: ""
 				},
 				{
@@ -75,6 +82,7 @@
 					orientation: "across",
 					startx: 7,
 					starty: 11,
+					hintbool: false,
 					hint: ""
 				},
 				{
@@ -84,6 +92,7 @@
 					orientation: "across",
 					startx: 3,
 					starty: 16,
+					hintbool: false,
 					hint: ""
 				},
 				{
@@ -93,6 +102,7 @@
 					orientation: "across",
 					startx: 13,
 					starty: 17,
+					hintbool: false,
 					hint: ""
 				},
 				{
@@ -102,6 +112,7 @@
 					orientation: "down",
 					startx: 1,
 					starty: 1,
+					hintbool: false,
 					hint: ""
 				},
 				{
@@ -111,6 +122,7 @@
 					orientation: "down",
 					startx: 8,
 					starty: 1,
+					hintbool: false,
 					hint: ""
 				},
 				{
@@ -120,6 +132,7 @@
 					orientation: "down",
 					startx: 15,
 					starty: 1,
+					hintbool: false,
 					hint: ""
 				},
 				{
@@ -129,6 +142,7 @@
 					orientation: "down",
 					startx: 17,
 					starty: 2,
+					hintbool: false,
 					hint: ""
 				},
 				{
@@ -138,6 +152,7 @@
 					orientation: "down",
 					startx: 4,
 					starty: 5,
+					hintbool: false,
 					hint: ""
 				},
 				{
@@ -147,6 +162,7 @@
 					orientation: "down",
 					startx: 12,
 					starty: 5,
+					hintbool: false,
 					hint: ""
 				},
 				{
@@ -156,6 +172,7 @@
 					orientation: "down",
 					startx: 8,
 					starty: 9,
+					hintbool: false,
 					hint: ""
 				},
 				{
@@ -165,6 +182,7 @@
 					orientation: "down",
 					startx: 15,
 					starty: 10,
+					hintbool: false,
 					hint: ""
 				},
 			] 
