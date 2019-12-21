@@ -6,7 +6,7 @@
 		// two entries: an across entry and a down entry
 		var puzzleData = [
 			 	{
-					clue: "What is the name of the square where we sat and ate pasta in front ofthe fountain in Rome?" <a href="goo.gl/maps/dBiydAxiVFs1RSo38">Hint.</a>,
+					clue: "What is the name of the square where we sat and ate pasta in front ofthe fountain in Rome?",
 					answer: "madonnadeimonti",
 					position: 1,
 					orientation: "across",
