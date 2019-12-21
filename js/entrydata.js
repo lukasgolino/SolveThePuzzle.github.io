@@ -11,7 +11,8 @@
 					position: 1,
 					orientation: "across",
 					startx: 1,
-					starty: 1
+					starty: 1,
+					hint: "https://goo.gl/maps/HWB8ZJPsQ88jTFgh8"
 				},
 			 	{
 					clue: "Where was this photo taken",
@@ -19,7 +20,8 @@
 					position: 2,
 					orientation: "across",
 					startx: 7,
-					starty: 3
+					starty: 3,
+					hint: ""
 				},
 				{
 					clue: "Fountain photo maybe?",
@@ -27,7 +29,8 @@
 					position: 3,
 					orientation: "across",
 					startx: 12,
-					starty: 3
+					starty: 3,
+					hint: ""
 				},
 				{
 					clue: "Our favourite past time.",
@@ -35,7 +38,8 @@
 					position: 4,
 					orientation: "across",
 					startx: 6,
-					starty: 5
+					starty: 5,
+					hint: ""
 				},
 				{
 					clue: "Norway capital.",
@@ -43,7 +47,8 @@
 					position: 5,
 					orientation: "across",	
 					startx: 1,
-					starty: 6
+					starty: 6,
+					hint: ""
 				},
 				{
 					clue: "First abroad holiday.",
@@ -51,7 +56,8 @@
 					position: 6,
 					orientation: "across",
 					startx: 11,
-					starty: 7
+					starty: 7,
+					hint: ""
 				},
 				{
 					clue: "One of the best and probably most memorable museums we've been too.",
@@ -59,7 +65,8 @@
 					position: 7,
 					orientation: "across",
 					startx: 2,
-					starty: 10
+					starty: 10,
+					hint: ""
 				},
 				{
 					clue: "\"MOOOOOOORE _________\"",
@@ -67,7 +74,8 @@
 					position: 8,
 					orientation: "across",
 					startx: 7,
-					starty: 11
+					starty: 11,
+					hint: ""
 				},
 				{
 					clue: "One of our favourite lifts in Val this lifts name roughly translates to sun in French.",
@@ -75,7 +83,8 @@
 					position: 9,
 					orientation: "across",
 					startx: 3,
-					starty: 16
+					starty: 16,
+					hint: ""
 				},
 				{
 					clue: "Shithole",
@@ -83,7 +92,8 @@
 					position: 10,
 					orientation: "across",
 					startx: 13,
-					starty: 17
+					starty: 17,
+					hint: ""
 				},
 				{
 					clue: "Island we stayed in Venice, famous for its glass.",
@@ -91,7 +101,8 @@
 					position: 1,
 					orientation: "down",
 					startx: 1,
-					starty: 1
+					starty: 1,
+					hint: ""
 				},
 				{
 					clue: "\"Oh yeah _____ yeah!\"",
@@ -99,7 +110,8 @@
 					position: 11,
 					orientation: "down",
 					startx: 8,
-					starty: 1
+					starty: 1,
+					hint: ""
 				},
 				{
 					clue: "Village we stayed in just outside Rhodes",
@@ -107,7 +119,8 @@
 					position: 12,
 					orientation: "down",
 					startx: 15,
-					starty: 1
+					starty: 1,
+					hint: ""
 				},
 				{
 					clue: "What mountain did we spend your birthday climbing in 2018",
@@ -115,7 +128,8 @@
 					position: 13,
 					orientation: "down",
 					startx: 17,
-					starty: 2
+					starty: 2,
+					hint: ""
 				},
 				{
 					clue: "Where was this photo taken <3",
@@ -123,7 +137,8 @@
 					position: 14,
 					orientation: "down",
 					startx: 4,
-					starty: 5
+					starty: 5,
+					hint: ""
 				},
 				{
 					clue: "Highest elevation we've ever stood at",
@@ -131,7 +146,8 @@
 					position: 15,
 					orientation: "down",
 					startx: 12,
-					starty: 5
+					starty: 5,
+					hint: ""
 				},
 				{
 					clue: "Banged out window (LOL)",
@@ -139,7 +155,8 @@
 					position: 16,
 					orientation: "down",
 					startx: 8,
-					starty: 9
+					starty: 9,
+					hint: ""
 				},
 				{
 					clue: "420 blaze it faggot",
@@ -147,7 +164,8 @@
 					position: 17,
 					orientation: "down",
 					startx: 15,
-					starty: 10
+					starty: 10,
+					hint: ""
 				},
 			] 
 	
