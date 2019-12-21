@@ -6,44 +6,44 @@
 		// two entries: an across entry and a down entry
 		var puzzleData = [
 			 	{
-					clue: "First letter of greek alphabet",
-					answer: "alphatest",
+					clue: "What is the name of the square where we sat and ate pasta in front ofthe fountain in Rome?",
+					answer: "madonnadeimonti",
 					position: 1,
 					orientation: "across",
 					startx: 1,
 					starty: 1
 				},
 			 	{
-					clue: "Not a one ___ motor, but a three ___ motor",
-					answer: "phase",
-					position: 3,
+					clue: "Where was this photo taken",
+					answer: "hvar",
+					position: 2,
 					orientation: "across",
 					startx: 7,
-					starty: 1
-				},
-				{
-					clue: "Created from a separation of charge",
-					answer: "capacitance",
-					position: 5,
-					orientation: "across",
-					startx: 1,
 					starty: 3
 				},
 				{
-					clue: "The speeds of engines without and accelaration",
-					answer: "idlespeeds",
-					position: 8,
+					clue: "Fountain photo maybe?",
+					answer: "berlin",
+					position: 3,
 					orientation: "across",
-					startx: 1,
+					startx: 12,
+					starty: 3
+				},
+				{
+					clue: "Our favourite past time.",
+					answer: "cwtch",
+					position: 4,
+					orientation: "across",
+					startx: 6,
 					starty: 5
 				},
 				{
-					clue: "Complex resistances",
-					answer: "impedances",
+					clue: "Norway capital.",
+					answer: "oslo",
 					position: 10,
 					orientation: "across",	
-					startx: 2,
-					starty: 7
+					startx: 1,
+					starty: 6
 				},
 				{
 					clue: "This device is used to step-up, step-down, and/or isolate",
