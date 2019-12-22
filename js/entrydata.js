@@ -22,8 +22,8 @@
 					orientation: "across",
 					startx: 7,
 					starty: 3,
-					hintbool: false,
-					hint: ""
+					hintbool: true,
+					hint: "Hint2.jpg"
 				},
 				{
 					clue: "Fountain photo maybe?",
@@ -152,8 +152,8 @@
 					orientation: "down",
 					startx: 4,
 					starty: 5,
-					hintbool: false,
-					hint: ""
+					hintbool: true,
+					hint: "Hint14.jpg"
 				},
 				{
 					clue: "Highest elevation we've ever stood at",
