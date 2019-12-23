@@ -317,6 +317,10 @@
 						solved.push(valToCheck);
 						solvedToggle = true;
 						numberOfSolvedClues++;
+						if(wholePuzzleSolved() == true)
+						{
+							window.location = "congratulations.html";
+						}
 						return;
 					}
 					
