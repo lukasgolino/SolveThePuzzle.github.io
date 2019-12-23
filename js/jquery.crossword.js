@@ -548,6 +548,11 @@
 					} else {
 						return false;
 					}
+				},
+				
+				wholePuzzleSolved: function() {
+					
+					
 				}
 				
 			}; // end util object
