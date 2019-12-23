@@ -23,7 +23,7 @@
 					startx: 7,
 					starty: 3,
 					hintbool: true,
-					hint: "Hint2.jpg"
+					hint: "Hint2.html"
 				},
 				{
 					clue: "Fountain photo maybe?",
