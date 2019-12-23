@@ -46,6 +46,7 @@
 				targetInput,
 				mode = 'interacting',
 				solvedToggle = false,
+			    	numberOfSolvedClues = 0;
 				z = 0;
 
 			var puzInit = {
@@ -315,6 +316,7 @@
 
 						solved.push(valToCheck);
 						solvedToggle = true;
+						numberOfSolvedClues++;
 						return;
 					}
 					
@@ -551,8 +553,14 @@
 				},
 				
 				wholePuzzleSolved: function() {
-					
-					
+					if(numberOfSolvedClues == entryCount-1)
+					{
+						return true;
+					}
+					else
+					{
+						return false;
+					}
 				}
 				
 			}; // end util object
