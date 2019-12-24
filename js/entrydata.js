@@ -26,7 +26,7 @@
 					hint: "Hint2.html"
 				},
 				{
-					clue: "Fountain photo maybe?",
+					clue: "City with my favourite fountain.",
 					answer: "berlin",
 					position: 3,
 					orientation: "across",
@@ -118,7 +118,7 @@
 				{
 					clue: "\"Oh yeah _____ yeah!\"",
 					answer: "duvet",
-					position: 11,
+					position: 2,
 					orientation: "down",
 					startx: 8,
 					starty: 1,
@@ -128,7 +128,7 @@
 				{
 					clue: "Village we stayed in just outside Rhodes",
 					answer: "ialysos",
-					position: 12,
+					position: 3,
 					orientation: "down",
 					startx: 15,
 					starty: 1,
@@ -138,7 +138,7 @@
 				{
 					clue: "What mountain did we spend your birthday climbing in 2018",
 					answer: "snowdon",
-					position: 13,
+					position: 4,
 					orientation: "down",
 					startx: 17,
 					starty: 2,
@@ -148,7 +148,7 @@
 				{
 					clue: "Where was this photo taken <3",
 					answer: "cosmeston",
-					position: 14,
+					position: 5,
 					orientation: "down",
 					startx: 4,
 					starty: 5,
@@ -158,7 +158,7 @@
 				{
 					clue: "Highest elevation we've ever stood at",
 					answer: "grandemotte",
-					position: 15,
+					position: 6,
 					orientation: "down",
 					startx: 12,
 					starty: 5,
@@ -168,7 +168,7 @@
 				{
 					clue: "Banged out window (LOL)",
 					answer: "brussels",
-					position: 16,
+					position: 7,
 					orientation: "down",
 					startx: 8,
 					starty: 9,
@@ -178,7 +178,7 @@
 				{
 					clue: "420 blaze it faggot",
 					answer: "amsterdam",
-					position: 17,
+					position: 8,
 					orientation: "down",
 					startx: 15,
 					starty: 10,
