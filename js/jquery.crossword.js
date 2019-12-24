@@ -195,7 +195,7 @@
 						//$('#' + puzz.data[i].orientation).append('<li tabindex="1" data-position="' + i + '">' + puzz.data[i].clue + '</li>');
 						//Lukas
 						if(puzz.data[i].hintbool == true) {
-							$('#' + puzz.data[i].orientation).append('<li tabindex="1" data-position="' + i + '">' + puzz.data[i].clue + '<a href="' + puzz.data[i].hint + '" target="_blank">Hint</a>' + '</li>');
+							$('#' + puzz.data[i].orientation).append('<li tabindex="1" data-position="' + i + '">' + puzz.data[i].clue + '<a href="' + puzz.data[i].hint + '" target="_blank"> Hint.</a>' + '</li>');
 						}
 						else {
 							$('#' + puzz.data[i].orientation).append('<li tabindex="1" data-position="' + i + '">' + puzz.data[i].clue + '</li>'); 
