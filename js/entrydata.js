@@ -23,7 +23,7 @@
 					startx: 7,
 					starty: 3,
 					hintbool: true,
-					hint: "Hint2.html"
+					hint: "Hint2.jpg"
 				},
 				{
 					clue: "City with my favourite fountain.",
@@ -32,8 +32,8 @@
 					orientation: "across",
 					startx: 12,
 					starty: 3,
-					hintbool: false,
-					hint: ""
+					hintbool: true,
+					hint: "Hint3.JPG"
 				},
 				{
 					clue: "Our favourite past time.",
@@ -46,17 +46,17 @@
 					hint: ""
 				},
 				{
-					clue: "Norway capital.",
+					clue: "City with its own cute version of St Fagans.",
 					answer: "oslo",
 					position: 5,
 					orientation: "across",	
 					startx: 1,
 					starty: 6,
-					hintbool: false,
-					hint: ""
+					hintbool: true,
+					hint: "HintOslo1.JPG"
 				},
 				{
-					clue: "First abroad holiday.",
+					clue: "Our first abroad holiday.",
 					answer: "paris",
 					position: 6,
 					orientation: "across",
@@ -72,11 +72,11 @@
 					orientation: "across",
 					startx: 2,
 					starty: 10,
-					hintbool: false,
-					hint: ""
+					hintbool: true,
+					hint: "HintVasa.JPG"
 				},
 				{
-					clue: "\"MOOOOOOORE _________\"",
+					clue: "Finish this FAMOUS quote: \"MOOOOOOORE _________\"",
 					answer: "yumyumyum",
 					position: 8,
 					orientation: "across",
@@ -86,24 +86,24 @@
 					hint: ""
 				},
 				{
-					clue: "One of our favourite lifts in Val this lifts name roughly translates to sun in French.",
+					clue: "One of our favourite lifts in Val. The name for this lift roughly translates to \"Sun\" ",
 					answer: "solais",
 					position: 9,
 					orientation: "across",
 					startx: 3,
 					starty: 16,
-					hintbool: false,
-					hint: ""
+					hintbool: true,
+					hint: "SolaisHint1.jpg"
 				},
 				{
-					clue: "Shithole",
+					clue: "Shithole. Nice clock though.",
 					answer: "prague",
 					position: 10,
 					orientation: "across",
 					startx: 13,
 					starty: 17,
-					hintbool: false,
-					hint: ""
+					hintbool: true,
+					hint: "HintPrague.JPG"
 				},
 				{
 					clue: "Island we stayed in Venice, famous for its glass.",
@@ -116,7 +116,7 @@
 					hint: ""
 				},
 				{
-					clue: "\"Oh yeah _____ yeah!\"",
+					clue: "Finish this famous quote: \"Oh yeah _____ yeah!\"",
 					answer: "duvet",
 					position: 2,
 					orientation: "down",
@@ -126,7 +126,7 @@
 					hint: ""
 				},
 				{
-					clue: "Village we stayed in just outside Rhodes",
+					clue: "Village we stayed in just outside Rhodes.",
 					answer: "ialysos",
 					position: 3,
 					orientation: "down",
@@ -142,8 +142,8 @@
 					orientation: "down",
 					startx: 17,
 					starty: 2,
-					hintbool: false,
-					hint: ""
+					hintbool: true,
+					hint: "Snowdon1.jpg"
 				},
 				{
 					clue: "Where was this photo taken <3",
@@ -166,24 +166,24 @@
 					hint: ""
 				},
 				{
-					clue: "Banged out window (LOL)",
+					clue: "City where we drunk beer out of a horn. Nice view which we enjoyed looking at too ;)",
 					answer: "brussels",
 					position: 7,
 					orientation: "down",
 					startx: 8,
 					starty: 9,
-					hintbool: false,
-					hint: ""
+					hintbool: true,
+					hint: "Brussels1.JPG"
 				},
 				{
-					clue: "420 blaze it faggot",
+					clue: "City where we spent a lot of time hiding from the rain in an Irish pub.",
 					answer: "amsterdam",
 					position: 8,
 					orientation: "down",
 					startx: 15,
 					starty: 10,
-					hintbool: false,
-					hint: ""
+					hintbool: true,
+					hint: "HintDAM1.JPG"
 				},
 			] 
 	
