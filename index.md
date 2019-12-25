@@ -25,7 +25,7 @@ body
  <li> This crossword will work better on PC but can be done on mobile. </li>
  <li> For some reason the links won't open when clicked normally so you have to middle-click or right-click/hold and select "open in new tab"</li>
  <li> Sometimes it's a little unresponsive so you might accidentally skip a letter sometimes (not sure why this happens!) just go back and type it in again.</li>
- <li>0 hints = 20 points, 1 hint = 18 points, 2 hints = 14 points, 3 hints = 12 points, 4-5 = 10 points, 6-9 hints = 8 points. (5 and 7 don't count and are free hints, obviously. Also you'll have to track how many you use yourself because I don't know how to program that yet haha... Be honest!</li>
+ <li>0 hints = 20 points, 1 hint = 18 points, 2 hints = 14 points, 3 hints = 12 points, 4-5 hints = 10 points, and 6-9 hints = 8 points. (5 and 7 don't count and are free hints, obviously. Also you'll have to track how many you use yourself because I don't know how to program that yet haha...) Be honest!</li>
  <li> Good luck! </li>
  </ul>
  
