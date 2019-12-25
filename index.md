@@ -7,6 +7,9 @@ body
   background-color:#151515;
  color: white;
 }
+header {
+  display: none;
+}
 </style>
  
 </head>
