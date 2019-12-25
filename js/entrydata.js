@@ -18,7 +18,7 @@
 			 	{
 					clue: "Where was this photo taken",
 					answer: "hvar",
-					position: 2,
+					position: 5,
 					orientation: "across",
 					startx: 7,
 					starty: 3,
@@ -28,7 +28,7 @@
 				{
 					clue: "City with my favourite fountain.",
 					answer: "berlin",
-					position: 3,
+					position: 6,
 					orientation: "across",
 					startx: 12,
 					starty: 3,
@@ -38,7 +38,7 @@
 				{
 					clue: "Our favourite past time.",
 					answer: "cwtch",
-					position: 4,
+					position: 8,
 					orientation: "across",
 					startx: 6,
 					starty: 5,
@@ -48,7 +48,7 @@
 				{
 					clue: "City with its own cute version of St Fagans.",
 					answer: "oslo",
-					position: 5,
+					position: 10,
 					orientation: "across",	
 					startx: 1,
 					starty: 6,
@@ -58,7 +58,7 @@
 				{
 					clue: "Our first abroad holiday.",
 					answer: "paris",
-					position: 6,
+					position: 11,
 					orientation: "across",
 					startx: 11,
 					starty: 7,
@@ -68,7 +68,7 @@
 				{
 					clue: "One of the best and probably most memorable museums we've been too.",
 					answer: "vasa",
-					position: 7,
+					position: 13,
 					orientation: "across",
 					startx: 2,
 					starty: 10,
@@ -78,7 +78,7 @@
 				{
 					clue: "Finish this FAMOUS quote: \"MOOOOOOORE _________\"",
 					answer: "yumyumyum",
-					position: 8,
+					position: 15,
 					orientation: "across",
 					startx: 7,
 					starty: 11,
@@ -88,7 +88,7 @@
 				{
 					clue: "One of our favourite lifts in Val. The name for this lift roughly translates to \"Sun\" ",
 					answer: "solais",
-					position: 9,
+					position: 16,
 					orientation: "across",
 					startx: 3,
 					starty: 16,
@@ -98,7 +98,7 @@
 				{
 					clue: "Shithole. Nice clock though.",
 					answer: "prague",
-					position: 10,
+					position: 17,
 					orientation: "across",
 					startx: 13,
 					starty: 17,
@@ -148,7 +148,7 @@
 				{
 					clue: "Where was this photo taken <3",
 					answer: "cosmeston",
-					position: 5,
+					position: 7,
 					orientation: "down",
 					startx: 4,
 					starty: 5,
@@ -158,7 +158,7 @@
 				{
 					clue: "Highest elevation we've ever stood at",
 					answer: "grandemotte",
-					position: 6,
+					position: 9,
 					orientation: "down",
 					startx: 12,
 					starty: 5,
@@ -168,7 +168,7 @@
 				{
 					clue: "City where we drunk beer out of a horn. Nice view which we enjoyed looking at too ;)",
 					answer: "brussels",
-					position: 7,
+					position: 12,
 					orientation: "down",
 					startx: 8,
 					starty: 9,
@@ -178,7 +178,7 @@
 				{
 					clue: "City where we spent a lot of time hiding from the rain in an Irish pub.",
 					answer: "amsterdam",
-					position: 8,
+					position: 14,
 					orientation: "down",
 					startx: 15,
 					starty: 10,
