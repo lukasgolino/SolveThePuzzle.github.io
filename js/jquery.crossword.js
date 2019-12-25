@@ -317,7 +317,7 @@
 						solved.push(valToCheck);
 						solvedToggle = true;
 						numberOfSolvedClues++;
-						if(numberOfSolvedClues == (entryCount))
+						if(numberOfSolvedClues == (18))
 						{
 							window.location = "congratulations.html";
 						}
