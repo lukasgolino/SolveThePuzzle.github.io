@@ -38,6 +38,7 @@
 				rows = [],
 				cols = [],
 				solved = [],
+			    	questionSolved = [false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false],
 				tabindex,
 				$actives,
 				activePosition = 0,
@@ -317,7 +318,20 @@
 						solved.push(valToCheck);
 						solvedToggle = true;
 						numberOfSolvedClues++;
-						if(numberOfSolvedClues == (18))
+						/*if(numberOfSolvedClues == (18))
+						{
+							window.location = "congratulations.html";
+						}*/
+						questionSolved[activePosition] = true;
+						var areWeDoneYet = true;
+						for(var i=0; i<18; i++)
+						{
+							if(questionSolved[i] == false)
+							{
+								areWeDoneYet = false;
+							}
+						}
+						if(areWeDoneYet == true)
 						{
 							window.location = "congratulations.html";
 						}
