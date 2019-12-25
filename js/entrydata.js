@@ -73,7 +73,7 @@
 					startx: 2,
 					starty: 10,
 					hintbool: true,
-					hint: "5.JPG"
+					hint: "HintLast.JPG"
 				},
 				{
 					clue: "Finish this FAMOUS quote: \"MOOOOOOORE _________\"",
