@@ -53,7 +53,7 @@
 					startx: 1,
 					starty: 6,
 					hintbool: true,
-					hint: "HintOslo1.JPG"
+					hint: "3.JPG"
 				},
 				{
 					clue: "Our first abroad holiday.",
@@ -73,7 +73,7 @@
 					startx: 2,
 					starty: 10,
 					hintbool: true,
-					hint: "HintVasa.JPG"
+					hint: "5.JPG"
 				},
 				{
 					clue: "Finish this FAMOUS quote: \"MOOOOOOORE _________\"",
@@ -93,7 +93,7 @@
 					startx: 3,
 					starty: 16,
 					hintbool: true,
-					hint: "SolaisHint1.jpg"
+					hint: "7.jpg"
 				},
 				{
 					clue: "Shithole. Nice clock though.",
@@ -103,7 +103,7 @@
 					startx: 13,
 					starty: 17,
 					hintbool: true,
-					hint: "HintPrague.JPG"
+					hint: "4.JPG"
 				},
 				{
 					clue: "Island we stayed in Venice, famous for its glass.",
@@ -143,7 +143,7 @@
 					startx: 17,
 					starty: 2,
 					hintbool: true,
-					hint: "Snowdon1.jpg"
+					hint: "6.jpg"
 				},
 				{
 					clue: "Where was this photo taken <3",
@@ -173,7 +173,7 @@
 					startx: 8,
 					starty: 9,
 					hintbool: true,
-					hint: "Brussels1.JPG"
+					hint: "1.JPG"
 				},
 				{
 					clue: "City where we spent a lot of time hiding from the rain in an Irish pub.",
@@ -183,7 +183,7 @@
 					startx: 15,
 					starty: 10,
 					hintbool: true,
-					hint: "HintDAM1.JPG"
+					hint: "2.JPG"
 				},
 			] 
 	
