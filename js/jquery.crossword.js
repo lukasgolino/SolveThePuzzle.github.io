@@ -38,7 +38,7 @@
 				rows = [],
 				cols = [],
 				solved = [],
-			    	questionSolved = [false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false],
+			    	questionSolved = [false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false],
 				tabindex,
 				$actives,
 				activePosition = 0,
