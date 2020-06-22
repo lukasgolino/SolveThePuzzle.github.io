@@ -15,6 +15,7 @@ header {
 </head>
 
 <body>
+<!--
 <h1> Crossword!! </h1>
 <p> Welcome to your present! </p>
  <p>It's a three-parter (kind of)</p>
@@ -22,8 +23,10 @@ header {
  <p>Then, if you complete it before 18th January 2020 14:00 you will get to unlock your "experience," (and if not I guess I wasted the money!)</p>
  <p>And finally the domain "abigailrichards.co.uk" is regestered for at least 1 year so you get to keep the domain for your own personal website (which I might help you set up if you want one). I was going to just buy a random name like "SolveThePuzzle.com" but thought that would be a waste because you might actually use this one!</p>
  
+ <!--
  <p>Anyway, good luck! I hope it's not too difficult or too easy, and hope you enjoy the pictures and memories! A couple of tips before you begin:</p>
  
+ <!--
  <ul>
  <li> This crossword will work better on PC but can be done on mobile. </li>
  <li> For some reason the links won't open when clicked normally so you have to middle-click or right-click/hold and select "open in new tab"</li>
@@ -33,6 +36,8 @@ header {
  </ul>
  
  
- 
+ <!--
 <a href="crossword.html">To the crossword!</a> 
+-->
+It is over.
 </body>
