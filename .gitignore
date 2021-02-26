@@ -1,4 +1,8 @@
-node_modules/
-npm-debug.log
+_site/
 .sass-cache/
-bower_components/
+.jekyll-cache/
+.jekyll-metadata
+alembic-jekyll-theme-*.gem
+Gemfile.lock
+**/Gemfile.lock
+
