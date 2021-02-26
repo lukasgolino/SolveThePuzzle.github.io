@@ -1,9 +1,8 @@
 ---
-title: About Alembic
+title: The ML Guild
 feature_text: |
-  {% include figure.html image="logos/fulltext.png" caption="The Machine Learning Guild" width="300" height="200" %}
   We at the guild believe in excellence and brotherhood.
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "989-1300x400"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
