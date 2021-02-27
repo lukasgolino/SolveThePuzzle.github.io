@@ -15,7 +15,7 @@ $white: #ffffff !default;
 
 // Typography
 $bodytype: (
-  font-family: "Mondra",
+  font-family: "Monda",
   regular: 400,
   bold: 700,
   italic: italic,
@@ -23,25 +23,28 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: "Mondra-Bold",
+  font-family: "Monda-Bold",
   regular: 400,
   bold: 700,
   cap-height: 0.75
 ) !default;
 
 $monospacetype: (
-  font-family: "Mondra",
+  font-family: "Monda",
   regular: 400,
   cap-height: 0.68
 ) !default;
 
 // Font import, if you're using a non-standard web font
 @import url("https://fonts.googleapis.com/css?family=Merriweather:400,700");
+@import url("/assets/fonts/Monda-Regular.tff");
+@import url("/assets/fonts/Monda-Bold.tff");
+
 @font-face {
-  font-family: "Mondra";
+  font-family: "Monda";
   src: url("/assets/fonts/Monda-Regular.tff");
 }
 @font-face {
-  font-family: "Mondra-Bold";
+  font-family: "Monda-Bold";
   src: url("/assets/fonts/Monda-Bold.tff");
 }
