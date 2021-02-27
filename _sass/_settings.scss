@@ -15,7 +15,7 @@ $white: #ffffff !default;
 
 // Typography
 $bodytype: (
-  font-family: "Mondra, serif",
+  font-family: "Mondra",
   regular: 400,
   bold: 700,
   italic: italic,
@@ -23,14 +23,14 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: '"Mondra", serif',
+  font-family: "Mondra-Bold",
   regular: 400,
   bold: 700,
   cap-height: 0.75
 ) !default;
 
 $monospacetype: (
-  font-family: "Mondra, monospace",
+  font-family: "Mondra",
   regular: 400,
   cap-height: 0.68
 ) !default;
@@ -40,4 +40,8 @@ $monospacetype: (
 @font-face {
   font-family: "Mondra";
   src: url("/assets/fonts/Monda-Regular.tff");
+}
+@font-face {
+  font-family: "Mondra-Bold";
+  src: url("/assets/fonts/Monda-Bold.tff");
 }
