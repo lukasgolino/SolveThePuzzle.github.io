@@ -7,4 +7,9 @@ styles: true
     src: url("/assets/fonts/Monda/Monda-Regular.tff");
   }
 
+  @font-face {
+    font-family: "Monda-Bold";
+    src: url("/assets/fonts/Monda/Monda-Bold.tff");
+  }
+
 @import "alembic";
