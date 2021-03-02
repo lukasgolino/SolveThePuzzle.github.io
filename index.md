@@ -2,7 +2,8 @@
 title: The ML Guild
 feature_text: |
   ## The Machine Learning Guild
-  We at the guild believe in excellence and brotherhood.
+  We at the guild believe in excellence and community.
+  Join The Guild or request our services below.
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
