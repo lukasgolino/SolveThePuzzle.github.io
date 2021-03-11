@@ -8,29 +8,35 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-The Machine Learning Guild is a small group of alligned experts in the field of modern machine learning and artificial intellegence research.
+The Machine Learning Guild is a small group of alligned experts in the field of modern machine learning and artificial intellegence research. We have a variety of experts in our organisation including doctors, industrial software engineers, research software engineers, and even accountants. All from diverse backgrounds, all with expertise in machine learning.
 
 
 ## What we offer:
 
 #### For clients
 
-- We offer machine learning solutions to projects that require it.
-- 
+- We offer personal machine learning solutions for any need.
+- Consultations or research collaborations with experts of all fields.
+- Talks, lectures, or personalised learning courses from our experts. 
 
 #### For members
 
-- A place to share solutions and discoveries in the field
+- A place to share solutions and discoveries in the field with likeminded individuals.
+- Posiblities to work on a wide range of interesting and unuque projects from clients.
+- Networking and support from the worlds leading guild of machine learning excellence. 
 
 ## Request our services
 
-- We can be contacted at the following address
+- Contact us now:
+
+{% include site-form.html %}
+``` html
+{% raw %}{% include site-form.html %}{% endraw %}
+```
 
 ## Join The Guild
 
--Think you have what it takes
+-Think you have what it takes to be a member? Contact the director at lukas.golino@hotmail.co.uk
 
 
-{% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} 
-{% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} 
-{% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+
