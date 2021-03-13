@@ -21,7 +21,7 @@ aside: true
 
 <small>A small element</small>
 
-[A link](/player-min.html/ "A link")
+[A link](/player-min/ "A link")
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
