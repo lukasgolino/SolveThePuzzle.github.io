@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>   
     <script type="text/javascript" src="https://flashphoner.com/downloads/builds/flashphoner_client/wcs_api-2.0/current/flashphoner.js"></script>
-    <script type="text/javascript" src="player-min.js"></script>   
+    <script type="text/javascript" src="/assets/scrips/player-min.js"></script>   
 </head>
  
 <body onload="init_api()">
