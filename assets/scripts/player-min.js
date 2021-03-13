@@ -15,7 +15,7 @@ function init_api() {
  
 //Connect to WCS server over websockets
 function connect() {
-    session = Flashphoner.createSession({urlServer: "wss://demo.flashphoner.com"}).on(SESSION_STATUS.ESTABLISHED, function(session){       
+    session = Flashphoner.createSession({urlServer: "rtsp://184.72.239.149/vod/mp4:BigBuckBunny_115k.mov"}).on(SESSION_STATUS.ESTABLISHED, function(session){       
         console.log("connection established");
         playStream(session);
     });
